@@ -1,5 +1,5 @@
-# Intro_to_Machine_Learning-
-These are my results of the [Intro to Machine Learning](https://br.udacity.com/course/intro-to-machine-learning--ud120/) course offered by Udacity platform through a point of view using Jupyter to carry out the proposed activities.
+# Applied_Data_Science-with_Python-
+These are my results of the [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python) offered by Coursera platform. 
 # ![logo](gears.jpg)
 
 ## License
