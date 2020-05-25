@@ -3,6 +3,9 @@
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
 
+#Customs
+Course4_Applied_Text_Mining_in_Python/Week-3/Amazon_Unlocked_Mobile.csv
+
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
